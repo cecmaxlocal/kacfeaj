@@ -1,0 +1,3 @@
+DECLARE plus
+IF @IDX.FILEPATH = 0 
+END 

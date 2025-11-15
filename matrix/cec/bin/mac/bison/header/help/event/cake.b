@@ -1,0 +1,3 @@
+DEBUG
+    PAGE @PATH
+END
